@@ -11,16 +11,16 @@ Homework 2
 3.由於2.的問題，在測試forward rate是否正確時，我使用的是trignosource網站上範例的測資，即t = 3, r = 2, y3 = 6.4%, y5 = 8.2%，以確定公式是否正確（因為我的公式中使用的代數是採老師的pdf，所以i = 3, j = 5, yi = 6.4%, yj = 8.2%）。
 
 另外計算forward rate的時候，我做了以下調整：
->a.當任一spot rate == 0時，forward rate 為 0 
->b.i 為從0開始到現在的年數，j為債券總年數，當i == j 時，forward rate也為 0
->c.當i > j 時，輸出為"x"
+>a.當任一spot rate == 0時，forward rate 為 0 \
+>b.i 為從0開始到現在的年數，j為債券總年數，當i == j 時，forward rate也為 0\
+>c.當i > j 時，輸出為"x"\
 >d.結果儲存為dataframe
 
 
 
 流程圖
 ---
-[連結]()
+[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW2/hw2_流程圖.pdf)
 
 程式碼
 ---
