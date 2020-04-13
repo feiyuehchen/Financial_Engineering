@@ -20,7 +20,7 @@ Homework 3
 
 程式碼
 ---
-[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW3/HW3_code.ipynb)
+[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW3/hw3_code.ipynb)
 
 
 
