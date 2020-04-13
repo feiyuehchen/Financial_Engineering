@@ -14,3 +14,4 @@ Homework
 
 #### [hw1](https://github.com/feiyuehchen/Financial_Engineering/blob/master/homework1.ipynb)
 #### [hw2](https://github.com/feiyuehchen/Financial_Engineering/tree/master/HW2)
+####[hw3](https://github.com/feiyuehchen/Financial_Engineering/tree/master/HW3)
