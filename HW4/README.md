@@ -1,26 +1,17 @@
-Homework 3
+Homework 4
 ===
 
 學習歷程
 ---
 
-一開始想說，既然input都是確定的，那我就做一個彈性/擴充性很低的程式，雖然醜而且很難修改，但至少可以算出答案吧！要是寫一個彈性很好的程式，結果算不出答案來就好笑了。
-順利算出答案之後，發現自己的code超醜ＸＤ所以去參考了一下其他同學的code，發現其他同學有做能夠自由改變input的code，覺得我這樣實在不太行，就做了三個function：
-1.payoff()用來計算call和put的payoff，可以用"call"和"put"切換公式
-2.probability()考慮不同n的情況，所以不只能帶入n = 3了，而能夠彈性的變化
-3.PV()用來讓code更加簡潔，使用者之後只需要呼叫PV，就能得到value
-
-最後因為不太確定自己的答案，所以我有使用put-call parity檢查答案是否正確。
+這次的作業比較輕鬆，因為老師已經在pdf上面放上計算流程與答案了，能直接看到自己在哪個環節可能算錯><
+雖然所有的運算可以用一條funciton來全部寫完，但因為這樣會讓code不容易理解，沒辦法在中間塞公式的圖片，所以我就照著老師的流程拆成多個funciton來處理，同時讓function彈性一點，例如在計算D的部分，程式就能計算不只是兩次發放dividends的情況。
 
 
 
-流程圖
+流程圖與程式碼
 ---
-[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW3/hw3_流程圖.pdf)
-
-程式碼
----
-[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW3/hw3_code.ipynb)
+[連結](https://github.com/feiyuehchen/Financial_Engineering/blob/master/HW4/hw4_code_process.ipynb)
 
 
 
